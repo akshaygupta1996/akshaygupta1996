@@ -72,15 +72,6 @@ I also create **educational content** on multi-agent systems through YouTube tut
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaygupta1996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaygupta1996&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ### 📝 Latest Content
 
 I write and create tutorials about building production multi-agent systems — covering frameworks like **Agno**, **LangGraph**, and **CrewAI** with real-world patterns.
