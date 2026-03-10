@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshaygupta72/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@multi-agentsystemscourse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@akshaygupta1474"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://medium.com/@akki7272"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://substack.com/@akshayonai"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
@@ -85,7 +85,7 @@ I also create **educational content** on multi-agent systems through YouTube tut
 
 I write and create tutorials about building production multi-agent systems — covering frameworks like **Agno**, **LangGraph**, and **CrewAI** with real-world patterns.
 
-👉 Check out my [YouTube channel](https://www.youtube.com/@multi-agentsystemscourse), [Medium blog](https://medium.com/@akki7272), and [Substack](https://substack.com/@akshayonai)
+👉 Check out my [YouTube channel](https://www.youtube.com/@akshaygupta1474), [Medium blog](https://medium.com/@akki7272), and [Substack](https://substack.com/@akshayonai)
 
 ---
 
