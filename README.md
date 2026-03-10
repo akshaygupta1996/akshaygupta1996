@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshaygupta1996"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@turtletechsai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://medium.com/@akshaygupta1996"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://dev.to/akshaygupta1996"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshaygupta72/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@multi-agentsystemscourse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@akki7272"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://substack.com/@akshayonai"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm an **AI Consultant & Full-Stack Developer with 8+ years of experience** and 
 
 I've designed and shipped systems with **40+ AI agents** handling real manufacturing workflows, built no-code agentic platforms, and delivered end-to-end AI solutions for international clients — all running in production.
 
-I also create **educational content** on multi-agent systems through YouTube tutorials, Medium articles, and dev.to posts — helping developers learn production AI patterns.
+I also create **educational content** on multi-agent systems through YouTube tutorials, Medium articles, and Substack — helping developers learn production AI patterns.
 
 ---
 
@@ -85,11 +85,11 @@ I also create **educational content** on multi-agent systems through YouTube tut
 
 I write and create tutorials about building production multi-agent systems — covering frameworks like **Agno**, **LangGraph**, and **CrewAI** with real-world patterns.
 
-👉 Check out my [YouTube channel](https://youtube.com/@turtletechsai) and [blog posts](https://medium.com/@akshaygupta1996)
+👉 Check out my [YouTube channel](https://www.youtube.com/@multi-agentsystemscourse), [Medium blog](https://medium.com/@akki7272), and [Substack](https://substack.com/@akshayonai)
 
 ---
 
 <p align="center">
   <strong>💬 Open to AI engineering roles, consulting engagements, and collaboration on agentic systems.</strong><br/>
-  <a href="mailto:akshay.gupta@turtletechsai.com">akshay.gupta@turtletechsai.com</a>
+  <a href="mailto:gupta.akshay1996@gmail.com">gupta.akshay1996@gmail.com</a>
 </p>
